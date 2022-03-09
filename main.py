@@ -1,6 +1,4 @@
-print("test")
-print("New line")
+import pandas as pd
+import datetime as dt
 
-print("Lottery program")
-
-print("push to repository complete")
+print("Lottery Program")
