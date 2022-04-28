@@ -2,5 +2,14 @@
 Project to Learn using python
 
 ## Contents:
-Here are the files in the Lotttery program
-1. main.py
+
+### Folder names:
+
+1. code
+2. modules
+
+### File names:
+
+1. code/main.py
+2. modules/imports.py
+3. modules/userinputs.py
